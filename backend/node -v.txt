@@ -1,0 +1,4 @@
+node -v
+npm start
+npm install
+ls
